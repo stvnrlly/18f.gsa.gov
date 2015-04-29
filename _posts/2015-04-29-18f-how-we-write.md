@@ -42,7 +42,6 @@ For the post you’re reading right now, we asked the 18F team what they thought
 
 > So I think the strongest form of this post includes some nods to the other things that help make our blog a Great Place to Write: authorial autonomy, infrastructure to support technical blog posts (e.g. syntax highlighting), immediate deployment from GitHub, a commitment to writing in a natural human voice, and an ongoing persistent invitation to all staff to be a part of the authorship. Other :+1: points: a strong tendency to use individual human bylines for all involved in a post, and a very light-touch approach to scheduling (I'd characterize it as, once approved, it's good to go ASAP as long as it's not slammed at the moment). - Eric Mill
 
-I'm drawing these points by contrasting how I've observed other blogs work in .gov that our team has coordinated with in the past.
 
 You’ll notice emoji in the comments Eric wrote above. Our team has started using emoji like a :thumbsup: or +100 to posts as a way to agree and keep the conversation light and fun. Here's another example from the conversation that led to this post:
 
