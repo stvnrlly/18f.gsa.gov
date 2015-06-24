@@ -9,7 +9,7 @@ git:
 
 script: ./go ci_build
 
-after_script: ./script/continua11y.sh
+after_script: sudo ./script/continua11y.sh
 
 notifications:
   email:
