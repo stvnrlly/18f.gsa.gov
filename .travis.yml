@@ -9,6 +9,8 @@ git:
 
 script: ./go ci_build
 
+after_script: sh ./script/continua11y.sh
+
 notifications:
   email:
     recipients:
@@ -22,3 +24,11 @@ branches:
   only:
     - staging
     - production
+
+env:
+  global:
+    - RUN_SCRIPT="bundle exec jekyll serve --detach"
+    - KILL_SCRIPT="pkill -f jekyll"
+    - USE_SITEMAP=false
+    - PORT=4000
+    - CONTINUA11Y="continua11y.herokuapp.com"
